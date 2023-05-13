@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Advait Naik</h1>
 <h3 align="center"> I'm a Graduate student in Computer Science (Artificial Intelligence)</h3>
-<h3 align="center"> 🌍 Los Angeles, California, USA </h3>
-<h3 align="center"> ✉️ Contact me naika@usc.edu
+<h3 align="center"> 🌍 Los Angeles, California, USA <br /> 
+ ✉️ Contact me naika@usc.edu </h3>
 
 ### Connect with me
 
