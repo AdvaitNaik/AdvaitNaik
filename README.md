@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Advait Naik</h1>
-<h3 align="center"> I'm a Master of Science student in Computer Science program at the University of Southern California Los Angeles. <br />
+<h3 align="center"> I'm a Master of Science student in Computer Science program at the University of Southern California. <br />
 I'm Organized, dedicated, and ambitious budding professional with excellent attention to detail, a thirst for learning and implementing strategies, and highly developed qualitative and analytical research skills with a strong capacity to conduct independent research</h3>
 <h3 align="center"> 🌍 Los Angeles, California, USA <br /> 
  ✉️ Contact me naika@usc.edu </h3>
