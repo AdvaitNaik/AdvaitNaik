@@ -88,7 +88,7 @@ Frontend Web Developer<br>🌍  I'm based in India<br>✉️  You can contact me
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/yashthakur"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/advaitnaik"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
   
 [website]: https://github.com/AdvaitNaik/AdvaitNaik
