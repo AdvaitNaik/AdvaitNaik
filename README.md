@@ -11,7 +11,7 @@
 [<img align="left" alt="AdvaitNaik5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="advait-naik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
+<br /> 
 
 ### Languages and Tools
   
@@ -69,7 +69,6 @@
 <!-- ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaHejabi&hide=VHDL,C,Assembly,Perl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <img align="left" alt="Parsa's GitHub Stats" src="https://github-readme-stats.parsahejabi.vercel.app//api?username=ParsaHejabi&show_icons=true&hide_border=true&theme=radical" /> -->
 
 [website]: https://github.com/AdvaitNaik/AdvaitNaik
