@@ -1,10 +1,10 @@
 
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Advait Naik</h1>
-<h3 align="center"> I am a Graduate student in Computer Science program at the University of Southern California. <br />
+<h4 align="center"> I am a Graduate student in Computer Science program at the University of Southern California. <br />
 Currently I am is working as a Software Engineer at USC Dornsife Center for Economic and Social Research.I have ample experience in working with databases, microservice architectures, APIs, production software deployment and maintenance and distributed systems. <br /> 
 I am a quick learner and comes up with creative solutions and shows persistence and willingness to learn new skills to deliver solutions. I am organized, dedicated, and ambitious budding professional with excellent attention to detail, and thirst for learning and implementing strategies, and highly developed qualitative and analytical research skills with a strong capacity to conduct independent research. <br />
 I am also an AI researcher excited to carve my niche in the world, with 2+ years of experience as Machine Learning & Computer Vision researcher and developer. Additionally, I was a Research Intern at National Institute of Technology Warangal and LeadingIndia.ai.
-</h3>
+</h4>
 
 
 
