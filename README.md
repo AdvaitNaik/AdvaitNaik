@@ -73,7 +73,7 @@ I am also an AI researcher excited to carve my niche in the world, with 2+ years
 
 <a href="https://bmc.link/naikaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
-[website]: https://github.com/AdvaitNaik/AdvaitNaik
+[website]: https://advaitnaik.github.io/adik/
 [twitter]: https://twitter.com/AdvaitNaik5
 [youtube]: https://www.youtube.com/channel/UC_vGDC4xsBfgQkuJauipWNw
 [linkedin]: https://www.linkedin.com/in/advait-naik/
