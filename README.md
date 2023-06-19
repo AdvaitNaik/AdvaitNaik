@@ -9,8 +9,8 @@ I am also an AI researcher excited to carve my niche in the world, with 2+ years
 
 
 
-<h3 align="center"> 🌍 Los Angeles, California, USA <br /> 
- ✉️ Contact me naika@usc.edu </h3>
+<h4 align="center"> 🌍 Los Angeles, California, USA <br /> 
+ ✉️ Contact me naika@usc.edu </h4>
 
 ### Connect with me
 
